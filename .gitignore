@@ -1,0 +1,5 @@
+.vscode/
+olcPixelGameEngine.h
+main.cpp
+build/
+*.txt
