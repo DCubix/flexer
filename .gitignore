@@ -1,5 +1,3 @@
 .vscode/
-olcPixelGameEngine.h
-main.cpp
+.vs/
 build/
-*.txt

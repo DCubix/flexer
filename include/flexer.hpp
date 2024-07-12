@@ -23,7 +23,7 @@
  * ========================================================================================
  * EMBEDDING INTO AN EXISTING GUI FRAMEWORK
  * ========================================================================================
- * After calling performLayout(), a new rectangle will get generated. You can access that
+ * After calling performLayout(), a new rectangle will be generated. You can access that
  * by simply calling getElementRect(id) and passing the desired element ID.
  * 
  * You can use the returned rectangle both for rendering and handling events.
@@ -32,7 +32,7 @@
  * VERSION HISTORY
  * ========================================================================================
  * 		- v1.0: Initial version release
- * 
+ *
  */
 
 #include <cstdint>
